@@ -53,3 +53,8 @@ py.Get_Index_Of_A_Character_In_List(value_list, "World")
 ```
 2
 ```
+___
+## Version Log:
+```
+v1.0 - Initial Release
+```
