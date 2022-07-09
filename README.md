@@ -85,5 +85,9 @@ ___
 ## Version Log:
 ```
 v1.0 - Initial Release
-v1.1 - Added 2 new commands.
+v1.1 - Added 2 new commands:-
+        i)Average_Of()
+        ii)Print_Date_And_Time()
+       Change the Name of 'Get_Index_Of_A_Character_In_List()' command to 'Get_Index_Of_Item_In_List()'
+       Added Credit Text.
 ```
