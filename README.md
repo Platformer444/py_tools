@@ -39,7 +39,7 @@ py.Join_Everything_In_List(value_list)
 ```
 Hello World!
 ```
-### 3) Get_Index_Of_A_Character_In_List(listSpecified, Item)
+### 3) Get_Index_Of_Item_In_List(listSpecified, Item)
 It gets the item number of an item in the list.
 For example:
 #### Code:
@@ -47,7 +47,7 @@ For example:
 import py_tools as py
 
 value_list = ["Hello", " ", "World", "!"]
-py.Get_Index_Of_A_Character_In_List(value_list, "World")
+py.Get_Index_Of_Item_In_List(value_list, "World")
 ```
 #### Result:
 ```
